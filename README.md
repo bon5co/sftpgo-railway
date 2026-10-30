@@ -1,5 +1,9 @@
 # sftpgo-railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/sftpgo-or-just-updated-sftp-server-files?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+**Deploy on Railway:** [SFTPGo template](https://railway.com/deploy/sftpgo-or-just-updated-sftp-server-files?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 Wrapper image for deploying [SFTPGo](https://github.com/drakkan/sftpgo) on Railway.
 
 Upstream `drakkan/sftpgo` is pinned by digest (2.7.5). This image changes three things:
